@@ -62,17 +62,17 @@ function chillHop() {
       active: false,
     },
 
-    // comment 
-    // {
-    //   name: "Under the City Stars",
-    //   cover:
-    //     "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
-    //   artist: "Aso, Middle School, Aviino",
-    //   audio: "https://mp3.chillhop.com/serve.php/?mp3=10074",
-    //   color: ["#205950", "#2ab3bf"],
-    //   id: uuidv4(),
-    //   active: false,
-    // },
+    
+    {
+      name: "CAP 2 paragrafo 2",
+      cover:
+        "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
+      artist: "Nagel e “l’effetto che fa”.",
+      audio: "https://drive.google.com/uc?export=download&id=1EWsV8HOA9yydB6EUjT91gJ5kjsqiGXv8",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
     //ADD MORE HERE
   ];
 }
