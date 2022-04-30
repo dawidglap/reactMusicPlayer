@@ -83,6 +83,16 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "CAP 3 Intro",
+      cover:
+        "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
+      artist: "Intenzionalità e coscienza fenomenica.",
+      audio: "https://drive.google.com/uc?export=download&id=1FQ2HaV0t-b5h1Zu094wZFdGYoTf5dDOm",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
     //ADD MORE HERE
   ];
 }
