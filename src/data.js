@@ -93,6 +93,16 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "CAP 3 paragrafo 2.",
+      cover:
+        "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
+      artist: "Intenzionalità.",
+      audio: "https://drive.google.com/uc?export=download&id=1PHWD119ib3KKC-XtOrN5RZUY6jiN7xR1",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
     //ADD MORE HERE
   ];
 }
