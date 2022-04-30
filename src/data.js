@@ -103,6 +103,46 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "CAP 3 paragrafo 2.",
+      cover:
+        "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
+      artist: "Teorie rappresentazionali pure e impure.",
+      audio: "https://drive.google.com/uc?export=download&id=1S3O-0_BQMcZ5klGMP_jigOdOmz-kXGds",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "CAP 3 paragrafo 3.",
+      cover:
+        "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
+      artist: "Teorie intenzionali deboli.",
+      audio: "https://drive.google.com/uc?export=download&id=1v_E1uWkeHgP3UgdimKct-AhKTclRUIgj",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "CAP 3 paragrafo 4.",
+      cover:
+        "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
+      artist: " Teorie intenzionali: un bilancio.",
+      audio: "https://drive.google.com/uc?export=download&id=1xwe7DGBv4B8ZqQOpMykRB7BV1zlEFd_5",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Conclusione",
+      cover:
+        "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
+      artist: "Conclusione",
+      audio: "https://drive.google.com/uc?export=download&id=1zUFQo_PgIxIfgHx6S0jphMbmm_oNJakh",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
     //ADD MORE HERE
   ];
 }
