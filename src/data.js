@@ -67,8 +67,18 @@ function chillHop() {
       name: "CAP 2 paragrafo 2",
       cover:
         "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
-      artist: "Nagel e “l’effetto che fa”.",
+      artist: "Nagel e “l’effetto che fa”.git",
       audio: "https://drive.google.com/uc?export=download&id=1EWsV8HOA9yydB6EUjT91gJ5kjsqiGXv8",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "CAP 2 paragrafo 3",
+      cover:
+        "https://www.linkpicture.com/q/Screenshot-2022-04-30-at-16.45.59.png",
+      artist: "Alcune considerazioni.",
+      audio: "https://drive.google.com/uc?export=download&id=1ZK5sKKg-Kt4Q5aspcjmLrjj9hpVlYlkv",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
